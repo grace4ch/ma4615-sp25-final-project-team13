@@ -9,3 +9,5 @@
 Thumbs.db
 /_site/
 .RDataTmp
+dataset/cleaned_dataset.rds
+dataset_for_shiny/shiny_stops.rds
